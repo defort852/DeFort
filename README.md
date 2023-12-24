@@ -1,6 +1,6 @@
 Dockerhub repo link: https://hub.docker.com/repository/docker/defort852/defort/general
 
-1.Pull the latest image and create a container
+1.Pull the image and create a container(Please select the image which matches your platform architecture)
 
 2.Go to the /usr/src/app directory
 
